@@ -267,17 +267,17 @@ header .header-content .header-content-inner p {
   margin-bottom: 50px;
 }
 
-@media screen and (max-width: 768px) {
+/* @media screen and (max-width: 768px) {
   .mb-invisible{
     display: none;
   }
-}
+} */
 
-@media screen and (max-width: 922px) {
+/* @media screen and (max-width: 922px) {
   .mb-invisible{
     display: none;
   }
-}
+} */
 
 @media (min-width: 768px) {
   header {
