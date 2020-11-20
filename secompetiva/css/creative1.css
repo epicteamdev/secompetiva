@@ -279,6 +279,12 @@ header .header-content .header-content-inner p {
   }
 } */
 
+@media (min-width:1000px){
+  .imgT{
+    margin-top: 16%;
+  }
+}
+
 @media (min-width: 768px) {
   header {
     min-height: 100%;
